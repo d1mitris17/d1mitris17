@@ -48,6 +48,6 @@ I am also proud to be a **Microsoft Learn Student Ambassador**, where I actively
 ### **Hobbies**  
 - Exploring unique programming challenges.  
 - Experimenting with mixology.  
-- Enjoying outdoor activities like climbing Arthur's Seat.  
-
+- Training and refining techniques in powerlifting to improve strength and performance.
+  
 Feel free to connect with me and explore my repositories. Let's build something amazing together!  
