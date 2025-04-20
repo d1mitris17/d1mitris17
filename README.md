@@ -4,8 +4,6 @@ Hello, my name is **Dimitris Doukas**, and I am a **BSc Computer Science** stude
 
 I have a strong passion for coding, problem-solving, and creating innovative solutions. Currently, I am exploring areas like **OCaml**, **Python**, **Data Structures and Algorithms**, **Node.js**, and **UI/UX Design**.  
 
-I am also proud to be a **Microsoft Learn Student Ambassador**, where I actively engage in fostering technical learning communities and sharing knowledge with fellow students.  
-
 ---
 
 ### **Skills**  
@@ -44,10 +42,5 @@ I am also proud to be a **Microsoft Learn Student Ambassador**, where I actively
 - **Collectible Card Logger**: Building a website to log collectible cards, using technologies like Node.js, SQL, AJAX, and JSON.  
 - **Experimentation in UX**: Conducting a study on the *Impact of Navigation Design on User Satisfaction* with a focus on fixed vs. hidden menus. 
 ---
-
-### **Hobbies**  
-- Exploring unique programming challenges.  
-- Experimenting with mixology.  
-- Training and refining techniques in powerlifting to improve strength and performance.
   
-Feel free to connect with me and explore my repositories. Let's build something amazing together!  
+Feel free to connect with me and explore my repositories.
